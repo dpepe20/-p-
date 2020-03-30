@@ -3,7 +3,7 @@ const router = express.Router();
 
 
 
-router.get('/',(req,res)=>
+router.get('/ini',(req,res)=>
 {
 	//();
 	//console.log(__dirname + '/views/index.html');
