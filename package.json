@@ -4,7 +4,7 @@
   "description": "",
   "main": "index",
   "scripts": {
-    "start": "node src .",
+    "start": "node src ",
     "dev": "nodemon src"
   },
   "keywords": [],
